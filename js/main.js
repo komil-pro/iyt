@@ -89,6 +89,19 @@
 
         portfolioIsotope.isotope({filter: $(this).data('filter')});
     });
+
+    // Contact / mailto
+    function sendMail() {
+        var name = $('#m_name').val();
+        var email = $('#m_email').val();
+        var subject = $('#m_subject').val();
+        var message = $('#m_message').val();
+        window.location.href = 'mailto:info@iyt.tajik.dev?subject=' + subject + ' -- ' + name + ' (' + email + ')' + '&body=' + message;
+    };
+
+    $('#sendUsEmail').on('click', function () {
+        sendMail();
+    });
     
 })(jQuery);
 
