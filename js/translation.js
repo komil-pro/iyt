@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-const defaultLangCode = 'tj'
+const defaultLangCode = 'ru'
 var translations = {
 'ru': {
     'menuMain': 'Главная',
