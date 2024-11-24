@@ -6,7 +6,7 @@ var translations = {
     'menuAbout': 'О нас',
     'menuProjects': 'Проекты',
     'menuServices': 'Услуги',
-    'menuiTeams': 'Инициативные группы',
+    'menuiTeams': 'Сообщества волонтёров',
     'menuContact': 'Контакты',
     'heroTitle' : '“ИНИЦИАТИВНАЯ МОЛОДЕЖЬ ТАДЖИКИСТАНА”',
     'heroText' : 'Мы стремимся создать динамичное сообщество молодежи, активно участвующей в социальных \
@@ -20,7 +20,7 @@ var translations = {
     'menuAbout': 'Дар бораи мо',
     'menuProjects': 'Лоихахо',
     'menuServices': 'Хизматрасони',
-    'menuiTeams': 'Гурӯҳҳои ташаббускор',
+    'menuiTeams': 'Ҷамеаҳои волонтёрӣ',
     'menuContact': 'Тамос',
     'heroTitle' : '“ҶАВОНОНИ ТАШАББУСКОРИ ТОҶИКИСТОН”',
     'heroText' : 'Мо саъю кӯшиш дорем, ки як ҷомеаи фаъоли ҷавононеро эҷод намоем, ки дар дигаргуниҳои \
@@ -35,7 +35,7 @@ var translations = {
     'menuAbout': 'About',
     'menuProjects': 'Projects',
     'menuServices': 'Services',
-    'menuiTeams': 'Initiative groups',
+    'menuiTeams': 'Volunteer communities',
     'menuContact': 'Contact',
     'heroTitle' : '"INITIATIVE YOUTH OF TAJIKISTAN"',
     'heroText' : 'We strive to create a dynamic community of young people actively involved in social \
